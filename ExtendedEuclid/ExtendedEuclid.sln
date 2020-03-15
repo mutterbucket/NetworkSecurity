@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ExtendedEuclid", "ExtendedEuclid.pyproj", "{723527D9-DC05-477D-81EB-5BCBD7950ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723527D9-DC05-477D-81EB-5BCBD7950ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723527D9-DC05-477D-81EB-5BCBD7950ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77BD9925-C0D4-403D-A5B6-E22B951A026F}
+	EndGlobalSection
+EndGlobal
